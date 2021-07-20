@@ -1,4 +1,4 @@
-export default [
+let stateData = [
   {"name":"Alabama","alpha-2":"AL"},
   {"name":"Alaska","alpha-2":"AK"},
   {"name":"Arizona","alpha-2":"AZ"},
@@ -51,3 +51,5 @@ export default [
   {"name":"Wisconsin","alpha-2":"WI"},
   {"name":"Wyoming","alpha-2":"WY"}
 ];
+
+export default stateData;
